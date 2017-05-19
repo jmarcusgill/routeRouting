@@ -1,2 +1,13 @@
 body {
-  background-color: #FF4136; }
+  background: url("https://c1.staticflickr.com/3/2357/2516643521_2c33144d43_b.jpg") fixed;
+  background-size: cover; }
+
+.container {
+  width: 80%;
+  height: 250px;
+  background-color: rgba(255, 153, 0, 0.4);
+  border-radius: 15px;
+  box-shadow: 0px 0px 50px #fff; }
+  .container h1 {
+    padding: 30px;
+    text-align: center; }
